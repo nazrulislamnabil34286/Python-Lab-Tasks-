@@ -1,0 +1,3 @@
+Hello, this is the first line.
+This file demonstrates Python file operations.
+This line was added using append mode.
